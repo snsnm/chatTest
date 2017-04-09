@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "358666165385",
+    "firebase_url": "https://chatnano-e1816.firebaseio.com",
+    "project_id": "chatnano-e1816",
+    "storage_bucket": "chatnano-e1816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358666165385:android:bef4609cf5f69906",
+        "android_client_info": {
+          "package_name": "com.example.mlh_admin.chatnano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358666165385-9d7pri9k30b5f7hcl71vef940255upqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mlh_admin.chatnano",
+            "certificate_hash": "1543205533e2e9373d3e70f65f4404b7f520cf8d"
+          }
+        },
+        {
+          "client_id": "358666165385-2peda56sigop3fg1l61k15q11et6p750.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp6umhAqiNbSC_KkNT972qud7YJ-crWEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358666165385-2peda56sigop3fg1l61k15q11et6p750.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
